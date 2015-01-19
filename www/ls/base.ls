@@ -39,7 +39,7 @@ jazyky_h =
 years = [2006 to 2013]
 
 for code, nutsData of nuts
-  for jazyk in jazyky
+  for jazyk in (jazyky ++ ['celkem'])
     nutsData.lines[jazyk] = [jazyky_h[jazyk]]
 
 
@@ -48,6 +48,7 @@ for line in data
   nutsData.data.push line
   for jazyk in jazyky
     nutsData.lines[jazyk].push line[jazyk] / line['celkem']
+  nutsData.lines['celkem'].push line['celkem']
 
 selectorsContainer = container.append \div
   ..attr \class \selectors
@@ -68,7 +69,10 @@ chart = c3.generate do
         format: -> years[it]
   tooltip:
     format:
-      value: (value) -> "#{ig.utils.formatNumber value * 100 1} %"
+      value: (value, _, __, i) ->
+        console.log currentNuts.lines
+        number = ig.utils.formatNumber value * currentNuts.lines.celkem[i + 1]
+        "#{ig.utils.formatNumber value * 100 1} % (#number žáků)"
 
 currentNuts = null
 drawNuts = (nuts = currentNuts) ->

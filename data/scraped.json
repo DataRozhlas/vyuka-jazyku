@@ -1,5 +1,31 @@
 {
   "2006": {
+    "CZ0": {
+      "celkem": 522699,
+      "anglictina": 413621,
+      "francouzstina": 42977,
+      "nemcina": 276823,
+      "rustina": 16191,
+      "spanelstina": 17297,
+      "italstina": 1499,
+      "latina": 12762,
+      "rectina": 117,
+      "evropsky": 76,
+      "jiny": 326
+    },
+    "CZ01": {
+      "celkem": 69163,
+      "anglictina": 63225,
+      "francouzstina": 8697,
+      "nemcina": 29095,
+      "rustina": 1652,
+      "spanelstina": 6488,
+      "italstina": 776,
+      "latina": 2753,
+      "rectina": 0,
+      "evropsky": 23,
+      "jiny": 197
+    },
     "CZ010": {
       "celkem": 69163,
       "anglictina": 63225,
@@ -13,6 +39,19 @@
       "evropsky": 23,
       "jiny": 197
     },
+    "CZ02": {
+      "celkem": 45135,
+      "anglictina": 36402,
+      "francouzstina": 4031,
+      "nemcina": 23700,
+      "rustina": 1511,
+      "spanelstina": 797,
+      "italstina": 48,
+      "latina": 947,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ020": {
       "celkem": 45135,
       "anglictina": 36402,
@@ -25,6 +64,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ03": {
+      "celkem": 60403,
+      "anglictina": 41897,
+      "francouzstina": 3516,
+      "nemcina": 39887,
+      "rustina": 1208,
+      "spanelstina": 1055,
+      "italstina": 0,
+      "latina": 1692,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 57
     },
     "CZ031": {
       "celkem": 34145,
@@ -48,6 +100,19 @@
       "spanelstina": 443,
       "italstina": 0,
       "latina": 901,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ04": {
+      "celkem": 54399,
+      "anglictina": 37251,
+      "francouzstina": 3658,
+      "nemcina": 36343,
+      "rustina": 1515,
+      "spanelstina": 673,
+      "italstina": 288,
+      "latina": 988,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -77,6 +142,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 74244,
+      "anglictina": 58951,
+      "francouzstina": 5508,
+      "nemcina": 38025,
+      "rustina": 2265,
+      "spanelstina": 1565,
+      "italstina": 129,
+      "latina": 1199,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 17
     },
     "CZ051": {
       "celkem": 20483,
@@ -117,6 +195,19 @@
       "evropsky": 0,
       "jiny": 1
     },
+    "CZ06": {
+      "celkem": 87457,
+      "anglictina": 66968,
+      "francouzstina": 6710,
+      "nemcina": 48474,
+      "rustina": 2246,
+      "spanelstina": 1664,
+      "italstina": 212,
+      "latina": 3056,
+      "rectina": 117,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ061": {
       "celkem": 26436,
       "anglictina": 19332,
@@ -140,6 +231,19 @@
       "italstina": 161,
       "latina": 2082,
       "rectina": 117,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 66056,
+      "anglictina": 53343,
+      "francouzstina": 5568,
+      "nemcina": 30876,
+      "rustina": 2463,
+      "spanelstina": 2451,
+      "italstina": 27,
+      "latina": 1306,
+      "rectina": 0,
       "evropsky": 0,
       "jiny": 0
     },
@@ -169,6 +273,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 65842,
+      "anglictina": 55584,
+      "francouzstina": 5289,
+      "nemcina": 30423,
+      "rustina": 3331,
+      "spanelstina": 2604,
+      "italstina": 19,
+      "latina": 821,
+      "rectina": 0,
+      "evropsky": 53,
+      "jiny": 55
+    },
     "CZ080": {
       "celkem": 65842,
       "anglictina": 55584,
@@ -184,6 +301,32 @@
     }
   },
   "2007": {
+    "CZ0": {
+      "celkem": 514403,
+      "anglictina": 421366,
+      "francouzstina": 43418,
+      "nemcina": 261192,
+      "rustina": 18525,
+      "spanelstina": 19772,
+      "italstina": 1257,
+      "latina": 13753,
+      "rectina": 99,
+      "evropsky": 60,
+      "jiny": 278
+    },
+    "CZ01": {
+      "celkem": 68218,
+      "anglictina": 63551,
+      "francouzstina": 8779,
+      "nemcina": 27734,
+      "rustina": 1929,
+      "spanelstina": 7132,
+      "italstina": 775,
+      "latina": 2941,
+      "rectina": 0,
+      "evropsky": 10,
+      "jiny": 97
+    },
     "CZ010": {
       "celkem": 68218,
       "anglictina": 63551,
@@ -197,6 +340,19 @@
       "evropsky": 10,
       "jiny": 97
     },
+    "CZ02": {
+      "celkem": 44987,
+      "anglictina": 36947,
+      "francouzstina": 4199,
+      "nemcina": 23075,
+      "rustina": 1685,
+      "spanelstina": 857,
+      "italstina": 31,
+      "latina": 1228,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ020": {
       "celkem": 44987,
       "anglictina": 36947,
@@ -209,6 +365,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ03": {
+      "celkem": 58789,
+      "anglictina": 42787,
+      "francouzstina": 3761,
+      "nemcina": 37085,
+      "rustina": 1182,
+      "spanelstina": 1442,
+      "italstina": 10,
+      "latina": 1706,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 57
     },
     "CZ031": {
       "celkem": 33179,
@@ -236,6 +405,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ04": {
+      "celkem": 53255,
+      "anglictina": 37780,
+      "francouzstina": 3429,
+      "nemcina": 34778,
+      "rustina": 1664,
+      "spanelstina": 720,
+      "italstina": 57,
+      "latina": 1075,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 8
+    },
     "CZ041": {
       "celkem": 14085,
       "anglictina": 9207,
@@ -261,6 +443,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 8
+    },
+    "CZ05": {
+      "celkem": 73476,
+      "anglictina": 60648,
+      "francouzstina": 5831,
+      "nemcina": 35699,
+      "rustina": 2565,
+      "spanelstina": 1800,
+      "italstina": 104,
+      "latina": 1296,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 41
     },
     "CZ051": {
       "celkem": 19812,
@@ -301,6 +496,19 @@
       "evropsky": 0,
       "jiny": 20
     },
+    "CZ06": {
+      "celkem": 86247,
+      "anglictina": 68970,
+      "francouzstina": 6574,
+      "nemcina": 45606,
+      "rustina": 2743,
+      "spanelstina": 1883,
+      "italstina": 213,
+      "latina": 3167,
+      "rectina": 99,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ061": {
       "celkem": 26229,
       "anglictina": 20032,
@@ -324,6 +532,19 @@
       "italstina": 171,
       "latina": 2236,
       "rectina": 99,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 64998,
+      "anglictina": 54479,
+      "francouzstina": 5614,
+      "nemcina": 29116,
+      "rustina": 2962,
+      "spanelstina": 2672,
+      "italstina": 42,
+      "latina": 1513,
+      "rectina": 0,
       "evropsky": 0,
       "jiny": 0
     },
@@ -353,6 +574,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 64433,
+      "anglictina": 56204,
+      "francouzstina": 5231,
+      "nemcina": 28099,
+      "rustina": 3795,
+      "spanelstina": 3266,
+      "italstina": 25,
+      "latina": 827,
+      "rectina": 0,
+      "evropsky": 50,
+      "jiny": 75
+    },
     "CZ080": {
       "celkem": 64433,
       "anglictina": 56204,
@@ -368,6 +602,32 @@
     }
   },
   "2008": {
+    "CZ0": {
+      "celkem": 508578,
+      "anglictina": 430434,
+      "francouzstina": 43797,
+      "nemcina": 246404,
+      "rustina": 21867,
+      "spanelstina": 22181,
+      "italstina": 1171,
+      "latina": 13682,
+      "rectina": 114,
+      "evropsky": 46,
+      "jiny": 232
+    },
+    "CZ01": {
+      "celkem": 67187,
+      "anglictina": 63677,
+      "francouzstina": 9521,
+      "nemcina": 25958,
+      "rustina": 2095,
+      "spanelstina": 7665,
+      "italstina": 730,
+      "latina": 2749,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 82
+    },
     "CZ010": {
       "celkem": 67187,
       "anglictina": 63677,
@@ -381,6 +641,19 @@
       "evropsky": 0,
       "jiny": 82
     },
+    "CZ02": {
+      "celkem": 44928,
+      "anglictina": 37987,
+      "francouzstina": 4327,
+      "nemcina": 21736,
+      "rustina": 2218,
+      "spanelstina": 910,
+      "italstina": 18,
+      "latina": 1348,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ020": {
       "celkem": 44928,
       "anglictina": 37987,
@@ -393,6 +666,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ03": {
+      "celkem": 58074,
+      "anglictina": 44173,
+      "francouzstina": 3533,
+      "nemcina": 35996,
+      "rustina": 1410,
+      "spanelstina": 1758,
+      "italstina": 27,
+      "latina": 1135,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 57
     },
     "CZ031": {
       "celkem": 32986,
@@ -416,6 +702,19 @@
       "spanelstina": 661,
       "italstina": 27,
       "latina": 435,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ04": {
+      "celkem": 52897,
+      "anglictina": 39403,
+      "francouzstina": 3317,
+      "nemcina": 33655,
+      "rustina": 1833,
+      "spanelstina": 790,
+      "italstina": 0,
+      "latina": 1228,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -445,6 +744,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 72790,
+      "anglictina": 62160,
+      "francouzstina": 5893,
+      "nemcina": 33400,
+      "rustina": 2940,
+      "spanelstina": 2027,
+      "italstina": 86,
+      "latina": 1681,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 24
     },
     "CZ051": {
       "celkem": 19356,
@@ -485,6 +797,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ06": {
+      "celkem": 84854,
+      "anglictina": 70290,
+      "francouzstina": 6805,
+      "nemcina": 42533,
+      "rustina": 3258,
+      "spanelstina": 2213,
+      "italstina": 194,
+      "latina": 3245,
+      "rectina": 114,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ063": {
       "celkem": 25716,
       "anglictina": 20517,
@@ -510,6 +835,19 @@
       "rectina": 114,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 64247,
+      "anglictina": 55779,
+      "francouzstina": 5306,
+      "nemcina": 27215,
+      "rustina": 3705,
+      "spanelstina": 2931,
+      "italstina": 75,
+      "latina": 1376,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 10
     },
     "CZ071": {
       "celkem": 33112,
@@ -537,6 +875,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 63601,
+      "anglictina": 56965,
+      "francouzstina": 5095,
+      "nemcina": 25911,
+      "rustina": 4408,
+      "spanelstina": 3887,
+      "italstina": 41,
+      "latina": 920,
+      "rectina": 0,
+      "evropsky": 46,
+      "jiny": 59
+    },
     "CZ080": {
       "celkem": 63601,
       "anglictina": 56965,
@@ -552,6 +903,32 @@
     }
   },
   "2009": {
+    "CZ0": {
+      "celkem": 500803,
+      "anglictina": 436720,
+      "francouzstina": 41878,
+      "nemcina": 237938,
+      "rustina": 26688,
+      "spanelstina": 24365,
+      "italstina": 1091,
+      "latina": 13063,
+      "rectina": 4,
+      "evropsky": 2,
+      "jiny": 193
+    },
+    "CZ01": {
+      "celkem": 65990,
+      "anglictina": 63303,
+      "francouzstina": 8354,
+      "nemcina": 26767,
+      "rustina": 2541,
+      "spanelstina": 8293,
+      "italstina": 692,
+      "latina": 2454,
+      "rectina": 4,
+      "evropsky": 0,
+      "jiny": 69
+    },
     "CZ010": {
       "celkem": 65990,
       "anglictina": 63303,
@@ -565,6 +942,19 @@
       "evropsky": 0,
       "jiny": 69
     },
+    "CZ02": {
+      "celkem": 44254,
+      "anglictina": 38230,
+      "francouzstina": 4340,
+      "nemcina": 20894,
+      "rustina": 2710,
+      "spanelstina": 957,
+      "italstina": 29,
+      "latina": 1285,
+      "rectina": 0,
+      "evropsky": 1,
+      "jiny": 0
+    },
     "CZ020": {
       "celkem": 44254,
       "anglictina": 38230,
@@ -577,6 +967,19 @@
       "rectina": 0,
       "evropsky": 1,
       "jiny": 0
+    },
+    "CZ03": {
+      "celkem": 57438,
+      "anglictina": 45359,
+      "francouzstina": 4036,
+      "nemcina": 34831,
+      "rustina": 1776,
+      "spanelstina": 2207,
+      "italstina": 42,
+      "latina": 1524,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 54
     },
     "CZ031": {
       "celkem": 32511,
@@ -604,6 +1007,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ04": {
+      "celkem": 52473,
+      "anglictina": 40383,
+      "francouzstina": 3069,
+      "nemcina": 33485,
+      "rustina": 1992,
+      "spanelstina": 806,
+      "italstina": 11,
+      "latina": 1247,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ041": {
       "celkem": 13466,
       "anglictina": 9614,
@@ -626,6 +1042,19 @@
       "spanelstina": 746,
       "italstina": 11,
       "latina": 901,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 72059,
+      "anglictina": 63619,
+      "francouzstina": 5859,
+      "nemcina": 31698,
+      "rustina": 3916,
+      "spanelstina": 2254,
+      "italstina": 74,
+      "latina": 1384,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -669,6 +1098,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ06": {
+      "celkem": 83358,
+      "anglictina": 71700,
+      "francouzstina": 6606,
+      "nemcina": 40823,
+      "rustina": 3776,
+      "spanelstina": 2331,
+      "italstina": 141,
+      "latina": 3125,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ063": {
       "celkem": 25451,
       "anglictina": 21022,
@@ -691,6 +1133,19 @@
       "spanelstina": 2052,
       "italstina": 122,
       "latina": 2291,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 63119,
+      "anglictina": 56872,
+      "francouzstina": 4948,
+      "nemcina": 25974,
+      "rustina": 4514,
+      "spanelstina": 3142,
+      "italstina": 75,
+      "latina": 1229,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -721,6 +1176,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 62112,
+      "anglictina": 57254,
+      "francouzstina": 4666,
+      "nemcina": 23466,
+      "rustina": 5463,
+      "spanelstina": 4375,
+      "italstina": 27,
+      "latina": 815,
+      "rectina": 0,
+      "evropsky": 1,
+      "jiny": 70
+    },
     "CZ080": {
       "celkem": 62112,
       "anglictina": 57254,
@@ -736,6 +1204,32 @@
     }
   },
   "2010": {
+    "CZ0": {
+      "celkem": 480523,
+      "anglictina": 430788,
+      "francouzstina": 38438,
+      "nemcina": 224396,
+      "rustina": 29181,
+      "spanelstina": 24638,
+      "italstina": 792,
+      "latina": 10231,
+      "rectina": 5,
+      "evropsky": 23,
+      "jiny": 336
+    },
+    "CZ01": {
+      "celkem": 63354,
+      "anglictina": 61686,
+      "francouzstina": 7742,
+      "nemcina": 25921,
+      "rustina": 2687,
+      "spanelstina": 8199,
+      "italstina": 478,
+      "latina": 2025,
+      "rectina": 5,
+      "evropsky": 0,
+      "jiny": 75
+    },
     "CZ010": {
       "celkem": 63354,
       "anglictina": 61686,
@@ -749,6 +1243,19 @@
       "evropsky": 0,
       "jiny": 75
     },
+    "CZ02": {
+      "celkem": 42505,
+      "anglictina": 37961,
+      "francouzstina": 4537,
+      "nemcina": 19289,
+      "rustina": 3538,
+      "spanelstina": 1034,
+      "italstina": 26,
+      "latina": 982,
+      "rectina": 0,
+      "evropsky": 23,
+      "jiny": 141
+    },
     "CZ020": {
       "celkem": 42505,
       "anglictina": 37961,
@@ -761,6 +1268,19 @@
       "rectina": 0,
       "evropsky": 23,
       "jiny": 141
+    },
+    "CZ03": {
+      "celkem": 55018,
+      "anglictina": 45061,
+      "francouzstina": 3480,
+      "nemcina": 33546,
+      "rustina": 2061,
+      "spanelstina": 2191,
+      "italstina": 42,
+      "latina": 1372,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 52
     },
     "CZ031": {
       "celkem": 30920,
@@ -788,6 +1308,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ04": {
+      "celkem": 50788,
+      "anglictina": 41061,
+      "francouzstina": 2834,
+      "nemcina": 32205,
+      "rustina": 1838,
+      "spanelstina": 753,
+      "italstina": 11,
+      "latina": 687,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ041": {
       "celkem": 13058,
       "anglictina": 9898,
@@ -810,6 +1343,19 @@
       "spanelstina": 724,
       "italstina": 11,
       "latina": 552,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 69663,
+      "anglictina": 63243,
+      "francouzstina": 5355,
+      "nemcina": 30117,
+      "rustina": 4261,
+      "spanelstina": 2404,
+      "italstina": 49,
+      "latina": 925,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -853,6 +1399,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ06": {
+      "celkem": 80091,
+      "anglictina": 71211,
+      "francouzstina": 6143,
+      "nemcina": 38321,
+      "rustina": 4091,
+      "spanelstina": 2537,
+      "italstina": 85,
+      "latina": 2716,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ063": {
       "celkem": 24543,
       "anglictina": 20957,
@@ -875,6 +1434,19 @@
       "spanelstina": 2152,
       "italstina": 67,
       "latina": 2025,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 60315,
+      "anglictina": 55589,
+      "francouzstina": 4379,
+      "nemcina": 23604,
+      "rustina": 4839,
+      "spanelstina": 2949,
+      "italstina": 88,
+      "latina": 852,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -905,6 +1477,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 58789,
+      "anglictina": 54976,
+      "francouzstina": 3968,
+      "nemcina": 21393,
+      "rustina": 5866,
+      "spanelstina": 4571,
+      "italstina": 13,
+      "latina": 672,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 68
+    },
     "CZ080": {
       "celkem": 58789,
       "anglictina": 54976,
@@ -920,6 +1505,32 @@
     }
   },
   "2011": {
+    "CZ0": {
+      "celkem": 454977,
+      "anglictina": 418369,
+      "francouzstina": 34532,
+      "nemcina": 207169,
+      "rustina": 29836,
+      "spanelstina": 24709,
+      "italstina": 668,
+      "latina": 9423,
+      "rectina": 0,
+      "evropsky": 2,
+      "jiny": 185
+    },
+    "CZ01": {
+      "celkem": 60884,
+      "anglictina": 59739,
+      "francouzstina": 7297,
+      "nemcina": 25027,
+      "rustina": 2766,
+      "spanelstina": 7952,
+      "italstina": 407,
+      "latina": 2045,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 77
+    },
     "CZ010": {
       "celkem": 60884,
       "anglictina": 59739,
@@ -933,6 +1544,19 @@
       "evropsky": 0,
       "jiny": 77
     },
+    "CZ02": {
+      "celkem": 40213,
+      "anglictina": 36738,
+      "francouzstina": 3577,
+      "nemcina": 17347,
+      "rustina": 3280,
+      "spanelstina": 1114,
+      "italstina": 29,
+      "latina": 963,
+      "rectina": 0,
+      "evropsky": 2,
+      "jiny": 46
+    },
     "CZ020": {
       "celkem": 40213,
       "anglictina": 36738,
@@ -945,6 +1569,19 @@
       "rectina": 0,
       "evropsky": 2,
       "jiny": 46
+    },
+    "CZ03": {
+      "celkem": 52387,
+      "anglictina": 44589,
+      "francouzstina": 3290,
+      "nemcina": 31361,
+      "rustina": 2298,
+      "spanelstina": 2354,
+      "italstina": 39,
+      "latina": 1156,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 25
     },
     "CZ031": {
       "celkem": 29484,
@@ -968,6 +1605,19 @@
       "spanelstina": 1120,
       "italstina": 20,
       "latina": 522,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ04": {
+      "celkem": 48037,
+      "anglictina": 40166,
+      "francouzstina": 2657,
+      "nemcina": 29853,
+      "rustina": 1781,
+      "spanelstina": 800,
+      "italstina": 11,
+      "latina": 661,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -997,6 +1647,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 66086,
+      "anglictina": 61489,
+      "francouzstina": 4705,
+      "nemcina": 27448,
+      "rustina": 4506,
+      "spanelstina": 2348,
+      "italstina": 46,
+      "latina": 857,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 1
     },
     "CZ051": {
       "celkem": 17319,
@@ -1037,6 +1700,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ06": {
+      "celkem": 75784,
+      "anglictina": 69335,
+      "francouzstina": 5559,
+      "nemcina": 35648,
+      "rustina": 4079,
+      "spanelstina": 2612,
+      "italstina": 38,
+      "latina": 2436,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ063": {
       "celkem": 23458,
       "anglictina": 20788,
@@ -1059,6 +1735,19 @@
       "spanelstina": 2150,
       "italstina": 29,
       "latina": 1916,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 56466,
+      "anglictina": 53628,
+      "francouzstina": 3876,
+      "nemcina": 21420,
+      "rustina": 5094,
+      "spanelstina": 2844,
+      "italstina": 57,
+      "latina": 624,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -1089,6 +1778,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 55120,
+      "anglictina": 52685,
+      "francouzstina": 3571,
+      "nemcina": 19065,
+      "rustina": 6032,
+      "spanelstina": 4685,
+      "italstina": 41,
+      "latina": 681,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 36
+    },
     "CZ080": {
       "celkem": 55120,
       "anglictina": 52685,
@@ -1104,6 +1806,32 @@
     }
   },
   "2012": {
+    "CZ0": {
+      "celkem": 429840,
+      "anglictina": 403518,
+      "francouzstina": 30422,
+      "nemcina": 185690,
+      "rustina": 29468,
+      "spanelstina": 23752,
+      "italstina": 495,
+      "latina": 8577,
+      "rectina": 0,
+      "evropsky": 4,
+      "jiny": 224
+    },
+    "CZ01": {
+      "celkem": 58265,
+      "anglictina": 57335,
+      "francouzstina": 6660,
+      "nemcina": 23540,
+      "rustina": 2709,
+      "spanelstina": 7975,
+      "italstina": 359,
+      "latina": 1914,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 87
+    },
     "CZ010": {
       "celkem": 58265,
       "anglictina": 57335,
@@ -1117,6 +1845,19 @@
       "evropsky": 0,
       "jiny": 87
     },
+    "CZ02": {
+      "celkem": 38506,
+      "anglictina": 36110,
+      "francouzstina": 3324,
+      "nemcina": 15164,
+      "rustina": 3320,
+      "spanelstina": 1205,
+      "italstina": 0,
+      "latina": 839,
+      "rectina": 0,
+      "evropsky": 1,
+      "jiny": 55
+    },
     "CZ020": {
       "celkem": 38506,
       "anglictina": 36110,
@@ -1129,6 +1870,19 @@
       "rectina": 0,
       "evropsky": 1,
       "jiny": 55
+    },
+    "CZ03": {
+      "celkem": 50012,
+      "anglictina": 43782,
+      "francouzstina": 2795,
+      "nemcina": 28361,
+      "rustina": 2110,
+      "spanelstina": 2283,
+      "italstina": 8,
+      "latina": 1070,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 50
     },
     "CZ031": {
       "celkem": 28079,
@@ -1156,6 +1910,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ04": {
+      "celkem": 45143,
+      "anglictina": 38875,
+      "francouzstina": 2313,
+      "nemcina": 26757,
+      "rustina": 1844,
+      "spanelstina": 648,
+      "italstina": 0,
+      "latina": 605,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ041": {
       "celkem": 11279,
       "anglictina": 8868,
@@ -1178,6 +1945,19 @@
       "spanelstina": 609,
       "italstina": 0,
       "latina": 483,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 62224,
+      "anglictina": 59341,
+      "francouzstina": 4047,
+      "nemcina": 24129,
+      "rustina": 4374,
+      "spanelstina": 2301,
+      "italstina": 52,
+      "latina": 861,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -1221,6 +2001,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ06": {
+      "celkem": 70921,
+      "anglictina": 66572,
+      "francouzstina": 4787,
+      "nemcina": 31979,
+      "rustina": 4090,
+      "spanelstina": 2304,
+      "italstina": 0,
+      "latina": 2085,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ063": {
       "celkem": 21986,
       "anglictina": 20329,
@@ -1245,6 +2038,19 @@
       "latina": 1590,
       "rectina": 0,
       "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 53027,
+      "anglictina": 51353,
+      "francouzstina": 3330,
+      "nemcina": 18764,
+      "rustina": 5279,
+      "spanelstina": 2682,
+      "italstina": 58,
+      "latina": 513,
+      "rectina": 0,
+      "evropsky": 3,
       "jiny": 0
     },
     "CZ071": {
@@ -1273,6 +2079,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ08": {
+      "celkem": 51742,
+      "anglictina": 50150,
+      "francouzstina": 3166,
+      "nemcina": 16996,
+      "rustina": 5742,
+      "spanelstina": 4354,
+      "italstina": 18,
+      "latina": 690,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 32
+    },
     "CZ080": {
       "celkem": 51742,
       "anglictina": 50150,
@@ -1288,6 +2107,32 @@
     }
   },
   "2013": {
+    "CZ0": {
+      "celkem": 410716,
+      "anglictina": 392641,
+      "francouzstina": 27224,
+      "nemcina": 169033,
+      "rustina": 29316,
+      "spanelstina": 22778,
+      "italstina": 437,
+      "latina": 8498,
+      "rectina": 0,
+      "evropsky": 8,
+      "jiny": 191
+    },
+    "CZ01": {
+      "celkem": 56431,
+      "anglictina": 55823,
+      "francouzstina": 6367,
+      "nemcina": 22543,
+      "rustina": 2406,
+      "spanelstina": 7697,
+      "italstina": 290,
+      "latina": 2039,
+      "rectina": 0,
+      "evropsky": 1,
+      "jiny": 98
+    },
     "CZ010": {
       "celkem": 56431,
       "anglictina": 55823,
@@ -1301,6 +2146,19 @@
       "evropsky": 1,
       "jiny": 98
     },
+    "CZ02": {
+      "celkem": 37219,
+      "anglictina": 35717,
+      "francouzstina": 3005,
+      "nemcina": 13396,
+      "rustina": 3730,
+      "spanelstina": 1211,
+      "italstina": 0,
+      "latina": 819,
+      "rectina": 0,
+      "evropsky": 1,
+      "jiny": 52
+    },
     "CZ020": {
       "celkem": 37219,
       "anglictina": 35717,
@@ -1313,6 +2171,19 @@
       "rectina": 0,
       "evropsky": 1,
       "jiny": 52
+    },
+    "CZ03": {
+      "celkem": 47736,
+      "anglictina": 43165,
+      "francouzstina": 2437,
+      "nemcina": 25769,
+      "rustina": 1858,
+      "spanelstina": 2137,
+      "italstina": 0,
+      "latina": 1123,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 25
     },
     "CZ031": {
       "celkem": 26780,
@@ -1340,6 +2211,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ04": {
+      "celkem": 43135,
+      "anglictina": 38319,
+      "francouzstina": 1892,
+      "nemcina": 24208,
+      "rustina": 2161,
+      "spanelstina": 735,
+      "italstina": 0,
+      "latina": 469,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ041": {
       "celkem": 10979,
       "anglictina": 8867,
@@ -1362,6 +2246,19 @@
       "spanelstina": 688,
       "italstina": 0,
       "latina": 395,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ05": {
+      "celkem": 59563,
+      "anglictina": 57690,
+      "francouzstina": 3646,
+      "nemcina": 21670,
+      "rustina": 4527,
+      "spanelstina": 2228,
+      "italstina": 47,
+      "latina": 942,
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
@@ -1405,6 +2302,19 @@
       "evropsky": 0,
       "jiny": 0
     },
+    "CZ06": {
+      "celkem": 67054,
+      "anglictina": 64329,
+      "francouzstina": 4144,
+      "nemcina": 28768,
+      "rustina": 4043,
+      "spanelstina": 2137,
+      "italstina": 38,
+      "latina": 2031,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 0
+    },
     "CZ063": {
       "celkem": 20865,
       "anglictina": 19869,
@@ -1429,6 +2339,19 @@
       "latina": 1523,
       "rectina": 0,
       "evropsky": 0,
+      "jiny": 0
+    },
+    "CZ07": {
+      "celkem": 50461,
+      "anglictina": 49504,
+      "francouzstina": 2939,
+      "nemcina": 17078,
+      "rustina": 5272,
+      "spanelstina": 2489,
+      "italstina": 53,
+      "latina": 540,
+      "rectina": 0,
+      "evropsky": 6,
       "jiny": 0
     },
     "CZ071": {
@@ -1456,6 +2379,19 @@
       "rectina": 0,
       "evropsky": 0,
       "jiny": 0
+    },
+    "CZ08": {
+      "celkem": 49117,
+      "anglictina": 48094,
+      "francouzstina": 2794,
+      "nemcina": 15601,
+      "rustina": 5319,
+      "spanelstina": 4144,
+      "italstina": 9,
+      "latina": 535,
+      "rectina": 0,
+      "evropsky": 0,
+      "jiny": 16
     },
     "CZ080": {
       "celkem": 49117,

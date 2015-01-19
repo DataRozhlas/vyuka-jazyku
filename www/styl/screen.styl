@@ -5,4 +5,43 @@
 .ig
   @import basics
 .ig
-  background yellow
+  font-family 'Roboto' arial sans-serif
+  background white
+  .selectors
+    float left
+    width 100%
+    clear left
+  h2
+    float left
+    clear left
+    margin 0px
+    font-size 14px
+    width 130px
+  ul
+    float left
+    margin 0px
+    padding 0px
+    list-style none
+    width 600px
+    margin-left 10px
+    li
+      float left
+      padding-right 10px
+      input
+        display none
+      input:checked + label
+        color ColorHeading
+        text-decoration underline
+      label
+        color #9
+        &:hover
+          cursor pointer
+          text-decoration underline
+  h2
+  ul
+    &:last-of-type
+      margin-top 10px
+  #chart
+    float left
+    width 100%
+

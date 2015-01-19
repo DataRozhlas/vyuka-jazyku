@@ -25,16 +25,16 @@ nuts =
 
 jazyky =  <[anglictina francouzstina nemcina rustina spanelstina italstina latina rectina evropsky jiny]>
 jazyky_h =
-  anglictina    : "Angličtina"
-  francouzstina : "Francouzština"
-  nemcina       : "Němčina"
-  rustina       : "Ruština"
-  spanelstina   : "Španělština"
-  italstina     : "Italština"
-  latina        : "Klasická latina"
-  rectina       : "Řečtina"
-  evropsky      : "Jiné evropské jazyky"
-  jiny          : "Ostatní jazyky"
+  anglictina    : "angličtina"
+  francouzstina : "francouzština"
+  nemcina       : "němčina"
+  rustina       : "ruština"
+  spanelstina   : "španělština"
+  italstina     : "italština"
+  latina        : "klasická latina"
+  rectina       : "řečtina"
+  evropsky      : "jiné evropské jazyky"
+  jiny          : "ostatní jazyky"
 
 years = [2006 to 2013]
 

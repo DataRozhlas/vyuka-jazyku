@@ -59,6 +59,8 @@ chart = c3.generate do
     columns: []
   axis:
     y:
+      min: 0
+      max: 1
       tick:
         format: ->
           p = it * 100

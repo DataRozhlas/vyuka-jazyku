@@ -67,8 +67,7 @@ chart = c3.generate do
       tick:
         format: ->
           p = it * 100
-          n = if it > 10 then 0 else 1
-          "#{ig.utils.formatNumber p, n} %"
+          "#{p} %"
     x:
       tick:
         format: -> years[it]

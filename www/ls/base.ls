@@ -74,7 +74,6 @@ chart = c3.generate do
   tooltip:
     format:
       value: (value, _, __, i) ->
-        console.log currentNuts.lines
         number = ig.utils.formatNumber value * currentNuts.lines.celkem[i + 1]
         "#{ig.utils.formatNumber value * 100 1} % (#number studentů)"
 

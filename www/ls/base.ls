@@ -36,7 +36,7 @@ jazyky_h =
   evropsky      : "jiné evropské jazyky"
   jiny          : "ostatní jazyky"
 
-years = [2006 to 2013]
+years = [2006 to 2013].map -> "#it/#{it + 1}"
 
 for code, nutsData of nuts
   for jazyk in (jazyky ++ ['celkem'])

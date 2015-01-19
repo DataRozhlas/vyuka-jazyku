@@ -87,7 +87,7 @@ addJazyk = (jazyk) ->
   columns = [currentNuts.lines[jazyk]]
   chart.load {columns}
 
-displayedJazyky = <[anglictina nemcina francouzstina rustina]>
+displayedJazyky = <[anglictina nemcina]>
 
 drawNuts nuts.CZ0
 

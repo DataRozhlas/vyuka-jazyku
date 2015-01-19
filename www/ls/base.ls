@@ -61,6 +61,9 @@ chart = c3.generate do
     y:
       min: 0
       max: 1
+      padding:
+        top:0
+        bottom:0
       tick:
         format: ->
           p = it * 100
